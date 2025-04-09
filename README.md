@@ -36,9 +36,8 @@ Este proyecto levanta un entorno Docker con tres contenedores:
 
 ## CÓMO USARLO
 
-### 1. Clonar o copiar el proyecto
+### 1. Entrar en la carpeta del proyecto
 
-git clone <repositorio>
 cd mi-proyecto
 
 ### 2. Dar permisos a los scripts
