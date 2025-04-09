@@ -53,21 +53,19 @@ chmod +x start.sh stop.sh
 
 ### 4. Acceder a la aplicación
 
-# Abrir el navegador y entrar a:
+Abrir el navegador y entrar a:
 
 http://localhost:8080
 
-# Se mostrará el contenido de la tabla personas. Los datos están ofuscados para cumplir con el RGPD.
+Se mostrará el contenido de la tabla personas. Los datos están ofuscados para cumplir con el RGPD.
 
 
 ### 5. Detener el entorno
 ./stop.sh
 
-# Esto apagará y eliminará los contenedores.
+Esto apagará y eliminará los contenedores.
 
-
-
-
+---
 
 ### TECNOLOGIAS USADAS
 
