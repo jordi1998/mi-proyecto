@@ -57,7 +57,7 @@ Abrir el navegador y entrar a:
 
 http://localhost:8080
 
-Se mostrará el contenido de la tabla personas. Los datos están ofuscados para cumplir con el RGPD.
+Se mostrará el contenido de la tabla personas. Los datos están ofuscados ya que no requiere autenticación.
 
 
 ### 5. Detener el entorno
